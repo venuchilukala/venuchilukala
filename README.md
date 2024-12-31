@@ -5,14 +5,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Venu+Chilukala!;" />
 </h1>
 
-<h3 align="center">I am a passionate web developer and ML enthusiast from India.</h3>
+<h3 align="center">I am a passionate Full Stack web developer.</h3>
 
 <br/>
 <div align="center">
  
  🔭 I’m currently working on **MegaMart - Shopping Mall Application**
 
- 🌱 I'm currently learning **Full Stack Web Application development and DSA**
+ 🌱 I'm currently learning **Full Stack Web Application development with MERN and Django**
 
  <!--[//]: # 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
